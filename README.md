@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daddycodek
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 👀 I have created 2 project
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking for a best guidance for my coding journey
 - 📫 You can reach me at ayushpratap3154@gmail.com
 - Lets do it
